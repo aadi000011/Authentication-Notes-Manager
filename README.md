@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authentication Notes Manager
 
 Flutter app with Firebase Authentication and Cloud Firestore where users can:
@@ -66,3 +67,6 @@ service cloud.firestore {
 
 - `flutter pub get`
 - `flutter run`
+=======
+# Authentication-Notes-Manager
+>>>>>>> 261da4f81464f989ab545a5d35d7cacf29a54f05
