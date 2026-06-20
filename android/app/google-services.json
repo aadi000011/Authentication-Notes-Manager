@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "927731158648",
+    "project_id": "authenticationnotesmanager",
+    "storage_bucket": "authenticationnotesmanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927731158648:android:c81f63b6dc05723a87278d",
+        "android_client_info": {
+          "package_name": "com.aadi.authnotesmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927731158648-hea4u8burmhsg08h2me0ikrb2gv56vu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM1fVtWvfuZMgf2afycD8OMZZFJRgkwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927731158648-hea4u8burmhsg08h2me0ikrb2gv56vu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927731158648-b1io9ujrqfb2pra4u795j4htakao86fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aadi.authnotesmanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927731158648:android:f6def4b9340b5b2887278d",
+        "android_client_info": {
+          "package_name": "com.example.auth_notes_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927731158648-hea4u8burmhsg08h2me0ikrb2gv56vu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM1fVtWvfuZMgf2afycD8OMZZFJRgkwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927731158648-hea4u8burmhsg08h2me0ikrb2gv56vu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927731158648-b1io9ujrqfb2pra4u795j4htakao86fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aadi.authnotesmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
