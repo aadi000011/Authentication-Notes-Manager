@@ -13,7 +13,7 @@ Flutter app with Firebase Authentication and Cloud Firestore where users can:
 - Flutter 3.x (Null Safety)
 - Firebase Authentication
 - Cloud Firestore
-- Provider for presentation state
+- Bloc for presentation state
 - Clean Architecture (data/domain/presentation)
 
 ## Firestore Structure
